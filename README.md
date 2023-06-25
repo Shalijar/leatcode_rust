@@ -1,2 +1,2 @@
 # leatcode_rust
-A repo containing solution to leetcode question in rust
+A repo containing solutions to leetcode problems in rust
